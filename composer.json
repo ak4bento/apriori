@@ -1,0 +1,19 @@
+{
+    "name": "akill/apriori",
+    "description": "Association rule learning based on Apriori algorithm for frequent item set mining.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akil",
+            "email": "hacker.akil17@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Akill\\Apriori\\": "src/"
+        }
+    }
+}
